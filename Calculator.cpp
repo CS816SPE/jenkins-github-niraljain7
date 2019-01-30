@@ -19,11 +19,11 @@ int main()
 		break;
 		
 
-		case '3': cout<<"Enter two numbers\n";
+	/*	case '3': cout<<"Enter two numbers\n";
 		cin>>a>>b;
 		cout<<"Result: "<<a*b;
 		break;
-		
+	*/	
 
 		default: cout<<"Invalid Choice!!!";
 		break;
